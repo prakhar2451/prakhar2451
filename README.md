@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar2451" alt="prakhar2451" /></a> </p>
 
-- 🔭 I’m currently working on [proconnect-app](https://github.com/prakhar2451/proconnect-app)
+- 🔭 I’m currently working on [buybazaar](https://github.com/prakhar2451/buybazaar)
 
 - 🌱 I’m currently learning **Spring Boot**
 
